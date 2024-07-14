@@ -37,5 +37,24 @@
 
 ![картинка](av8cff0e85dba5dba0092.jpeg)
 
+## Добавление таблиц
+```| Column 1 | Column 2 | Column 3 |```
+
+```|----------|----------|----------|```
+
+```| Row 1    | Cell 2   | Cell 3   |```
+
+```| Row 2    | Cell 5   | Cell 6   |```
+
+```| Row 3    | Cell 8   | Cell 9   |```
+
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Cell 2   | Cell 3   |
+| Row 2    | Cell 5   | Cell 6   |
+| Row 3    | Cell 8   | Cell 9   |
+
+
 
 
