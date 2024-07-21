@@ -36,7 +36,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
     "git-widget-placeholder": "main",
+=======
+    "git-widget-placeholder": "branch__for__reposit",
+>>>>>>> branch_for_reposit
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
